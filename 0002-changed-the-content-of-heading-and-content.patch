@@ -1,0 +1,26 @@
+From cb7a7918aab5bc69a3417114fe9df246e46092da Mon Sep 17 00:00:00 2001
+From: nemo <crsekar59@yahoo.com>
+Date: Fri, 29 Jan 2016 21:24:24 -0500
+Subject: [PATCH 2/2] changed the content of heading and content
+
+---
+ bb.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/bb.html b/bb.html
+index 7cd4ae9..20f4819 100644
+--- a/bb.html
++++ b/bb.html
+@@ -8,7 +8,7 @@
+ <body>
+   <h1 style="color: #F0F">The BitBucket Page</h1>
+   <p>BitBucket is a great tool similar to GitHub.Bitbucket belongs to Atlassian for GitHub-like Git and Mercurial code management service</p>
+-  <h2 style="color: #F0G">The BitBucket Page</h2>
++  <h2 style="color: #F0G">The BitBucket Pages</h2>
+   <p><a href="index.html">Return to Index page</a></p>
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.7.0.windows.1
+
